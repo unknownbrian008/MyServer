@@ -80,5 +80,3 @@ Open the termux app and type following commands.
 
 **Now type `myserver start` to start MyServer.**
 
-# MyServer
-# MyServer
